@@ -1,0 +1,26 @@
+{
+  "name": "cowsjump",
+  "version": "1.0.0",
+  "description": "Cows Can Jump",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidHarder/cowsjump.git"
+  },
+  "keywords": [
+    "Cows"
+  ],
+  "author": "Sid Harder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidHarder/cowsjump/issues"
+  },
+  "homepage": "https://github.com/SidHarder/cowsjump#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
